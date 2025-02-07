@@ -27,7 +27,7 @@ int main() {
     }
 
     string result;
-    if (attempts > 3) {
+    if (attempts > 10) {
         result = " YOU LOSE!";
     } 
     else {
